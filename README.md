@@ -1,7 +1,7 @@
-# Sebastian Ibargüen
+# Diego Ibargüen
 **Desarrollador Full Stack - Frontend**
 
-¡Hola! Soy Sebastian, un apasionado desarrollador web con experiencia en frontend.
+¡Hola! Soy Diego Sebastian, un apasionado desarrollador web con experiencia en frontend.
 
 Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 
