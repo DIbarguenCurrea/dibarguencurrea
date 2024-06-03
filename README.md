@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sebastian Ibargüen
+**Desarrollador Full Stack - Frontend**
 
-<!--
-**DIbarguenCurrea/dibarguencurrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Sebastian, un apasionado desarrollador web con experiencia en frontend.
 
-Here are some ideas to get you started:
+Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- **Lenguajes:** JavaScript, HTML, CSS, Typescript.
+- **Frameworks:** React, Nextjs. 
+- **Herramientas:** Git, VSCode.
+
+- ## Proyectos Destacados
+- [Proyecto 1](hhttps://github.com/Gagotlib/Advanced-Parking-Front): Aplicación web Advanced Parking.
+- [Proyecto 2](https://github.com/DIbarguenCurrea/Project_E-commerce_Technology): Plataforma de e-commerce.
+
+## Certificaciones
+- Henry Bootcamp - Desarrollo Web Full Stack
+
+- ## Intereses
+- Aplicaciones Web.
+- UX/UI Desing.
