@@ -16,7 +16,7 @@ Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 
 ## Certificaciones
 - Henry Bootcamp - Desarrollo Web Full Stack
-- U. Politecnico Grancolombiano - Administración de Empresas
+- U. Politécnico Grancolombiano - Administración de Empresas
 
 - ## Intereses
 - Aplicaciones Web.
