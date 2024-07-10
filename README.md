@@ -8,7 +8,7 @@ Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 ## Habilidades
 - **Lenguajes:** JavaScript, HTML, CSS, Typescript.
 - **Frameworks:** React, Nextjs. 
-- **Herramientas:** Git, VSCode.
+- **Herramientas:** Git, VSCode, Figma.
 
 - ## Proyectos Destacados
 - [Proyecto 1](https://github.com/Gagotlib/Advanced-Parking-Front): Aplicación web Advanced Parking.
