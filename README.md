@@ -11,7 +11,7 @@ Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 - **Herramientas:** Git, VSCode, Figma.
 
 - ## Proyectos Destacados
-- [Proyecto 1](https://github.com/Gagotlib/Advanced-Parking-Front): Aplicación web Advanced Parking.
+- [Proyecto 1](https://advanced-parking.vercel.app/): Aplicación web Advanced Parking.
 - [Proyecto 2](https://github.com/DIbarguenCurrea/Project_E-commerce_Technology): Plataforma de e-commerce.
 
 ## Certificaciones
