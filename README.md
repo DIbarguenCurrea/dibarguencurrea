@@ -1,5 +1,5 @@
 # Diego Ibargüen
-**Desarrollador Full Stack - Frontend**
+**Desarrollador Frontend**
 
 ¡Hola! Soy Diego Sebastian, un apasionado desarrollador web con experiencia en frontend.
 
