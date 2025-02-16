@@ -11,9 +11,9 @@ Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 - **Herramientas:** Git, VSCode, Figma.
 
 - ## Proyectos Destacados
-- [Proyecto 1](https://ticket-generator-dsic.vercel.app/): Generador de ticket.
-- (https://advanced-parking.vercel.app/): Aplicación web Advanced Parking.
-- (https://github.com/DIbarguenCurrea/Project_E-commerce_Technology): Plataforma de e-commerce.
+- [Generador de ticket.](https://ticket-generator-dsic.vercel.app/)
+- [Advanced Parking.](https://advanced-parking.vercel.app/)
+- [Plataforma de e-commerce.](https://github.com/DIbarguenCurrea/Project_E-commerce_Technology) 
 
 ## Certificaciones
 - Henry Bootcamp - Desarrollo Web Full Stack
