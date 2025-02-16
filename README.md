@@ -11,7 +11,7 @@ Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 - **Herramientas:** Git, VSCode, Figma.
 
 - ## Proyectos Destacados
-- (https://ticket-generator-dsic.vercel.app/): Generador de ticket.
+- [Proyecto 1](https://ticket-generator-dsic.vercel.app/): Generador de ticket.
 - (https://advanced-parking.vercel.app/): Aplicación web Advanced Parking.
 - (https://github.com/DIbarguenCurrea/Project_E-commerce_Technology): Plataforma de e-commerce.
 
