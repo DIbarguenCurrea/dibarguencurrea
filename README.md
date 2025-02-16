@@ -1,7 +1,7 @@
 # Diego Ibargüen
 **Desarrollador Frontend**
 
-¡Hola! Soy Diego Sebastian, un apasionado desarrollador web con experiencia en frontend.
+¡Hola! Soy Sebastian Ibargüen, un apasionado desarrollador web con experiencia en frontend y amante al café ☕.
 
 Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 
@@ -11,8 +11,9 @@ Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 - **Herramientas:** Git, VSCode, Figma.
 
 - ## Proyectos Destacados
-- [Proyecto 1](https://advanced-parking.vercel.app/): Aplicación web Advanced Parking.
-- [Proyecto 2](https://github.com/DIbarguenCurrea/Project_E-commerce_Technology): Plataforma de e-commerce.
+- (https://ticket-generator-dsic.vercel.app/): Generador de ticket.
+- (https://advanced-parking.vercel.app/): Aplicación web Advanced Parking.
+- (https://github.com/DIbarguenCurrea/Project_E-commerce_Technology): Plataforma de e-commerce.
 
 ## Certificaciones
 - Henry Bootcamp - Desarrollo Web Full Stack
@@ -20,4 +21,5 @@ Puedes contactarme en [dibarguenc@gmail.com](mailto:dibarguenc@gmail.com)
 
 - ## Intereses
 - Aplicaciones Web.
+- Desarrollo React-Native.
 - UX/UI Desing.
