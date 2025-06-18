@@ -12,6 +12,7 @@
 
 - ## 🚀 Proyectos Destacados
 - 🔧 [Carrier Tools](https://carrier-tools.com/) -> En desarrollo
+- 🧰 [Black Box SAS](https://blackbox-sas.vercel.app/) -> En desarrollo
 - 📓 [JournalAI](https://journalai.pro/)
 - 🎟️ [Generador de ticket.](https://ticket-generator-dsic.vercel.app/)
 - 🅿️ [Advanced Parking.](https://advanced-parking.vercel.app/)
@@ -19,6 +20,7 @@
 ## 📜 Certificaciones
 - Henry Bootcamp - Desarrollo Web Full Stack
 - U. Politécnico Grancolombiano - Administración de Empresas
+- MasterD - Barista
 
 ## 🎯 Intereses
 - Aplicaciones Web.
