@@ -11,17 +11,22 @@ Además, ¡soy un amante del café ☕ y siempre estoy buscando aprender algo nu
 ## 🛠️ Habilidades 
 
 **Lenguajes:** JavaScript, TypeScript, HTML, CSS.  
-**Frameworks & Librerías:** React, React Native, Next.js.
+**Frameworks & Librerías:** React, React Native, Next.js.  
 **Herramientas:** Git, Expo, VSCode, Figma, Firebase, React Native Paper.
 
 ---
 
 - ## 🚀 Proyectos Destacados
-- 🔧 [Carrier Tools](https://carrier-tools.com/)  _En desarrollo_ → App móvil para logística de transporte. _React Native · Firebase Auth · Google Maps API · i18n · Expo Router_
-- 🧰 [Black Box SAS](https://blackbox-sas.vercel.app/) _En desarrollo_ → Web corporativa con catálogo de productos y cotizador. _React · Ant Design · Firebase ·_
-- 📓 [JournalAI](https://journalai.pro/) → Iniciativa de GlobAI, está configurada para transformar el panorama de la creación de contenido. _React · Ant Design · OpenAI API_
-- 🎟️ [Generador de ticket.](https://ticket-generator-dsic.vercel.app/) → Generador web de tickets personalizados. _React · Vite · Custom hooks_
-- 🅿️ [Advanced Parking.](https://advanced-parking.vercel.app/) → Sistema de gestión de reservar plazas de parqueadero. _Nextjs · Tailwind · Maps API_
+- 🔧 [Carrier Tools](https://carrier-tools.com/)  _En desarrollo_ → App móvil para logística de transporte.
+ _React Native · Firebase Auth · Google Maps API · i18n · Expo Router_
+- 🧰 [Black Box SAS](https://blackbox-sas.vercel.app/) _En desarrollo_ → Web corporativa con catálogo de productos y cotizador.
+ _React · Ant Design · Firebase ·_
+- 📓 [JournalAI](https://journalai.pro/) → Iniciativa de GlobAI, transforma el panorama de la creación de contenido. 
+_React · Ant Design · OpenAI API_
+- 🎟️ [Generador de ticket.](https://ticket-generator-dsic.vercel.app/) → Generador web de tickets personalizados.
+ _React · Vite · Custom hooks_
+- 🅿️ [Advanced Parking.](https://advanced-parking.vercel.app/) → Sistema de gestión de reservar plazas de parqueadero. 
+_Nextjs · Tailwind · Maps API_
 
 ---
 
@@ -44,7 +49,7 @@ Además, ¡soy un amante del café ☕ y siempre estoy buscando aprender algo nu
 
 ---
 
-## 📎 Enlaces útiles
+## 📎 Enlaces
 
 - [LinkedIn](https://www.linkedin.com/in/sebastianibarguen/)
 - [Portafolio](https://sebastian-ibarguen.vercel.app/)
